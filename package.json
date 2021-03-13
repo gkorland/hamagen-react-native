@@ -70,7 +70,7 @@
     "rn-fetch-blob": "0.12.0",
     "seedrandom": "^3.0.5",
     "sha256": "00.2.0",
-    "xmldom": "0.3.0"
+    "xmldom": "0.5.0"
   },
   "devDependencies": {
     "@babel/core": "7.6.2",
